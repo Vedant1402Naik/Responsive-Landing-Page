@@ -1,0 +1,49 @@
+@media (max-width:500px) {
+
+    .main-text{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .main-text h2{
+    font-size: 6vw;
+    margin-left: 20px;
+    }
+    .main-rgt{
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .main-rgt p{
+        margin-top: 20px;
+        width: initial;
+    }
+    .main-rgt .icons{
+        margin-top: 20px;
+        margin-left: 28px;
+    }
+    .main-rgt .icons i{
+        font-size: 3vw;
+    }
+    .bottom{
+        flex-direction: column;
+    }
+    .box1{
+        width: 100%;
+    }
+    .box2{
+        width: 100%;
+    }
+    .box3{
+        width: 100%;
+    }
+    .box4{
+        width: 100%;
+    }
+    .box3-top {
+        padding: 55px 25px;
+        height: 10vh;
+    }
+    .box3-btm {
+        height: 30vh;
+    }
+
+}
